@@ -1,4 +1,4 @@
-# 
+# VIP Bumblebee plantillas. Con pruebas automatizadas y integración de base de datos vectorial — optimizado para el máximo rendimiento y eficiencia.
 
 
 
